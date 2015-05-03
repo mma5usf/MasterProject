@@ -6,9 +6,9 @@ import sys
 from timeit import default_timer
 """
 usage:
-python sparkSQL_benchmark.py scan <x>
-python sparkSQL_benchmark.py aggregation <x>
-python sparkSQL_benchmark.py join <date>
+python benchmark_spark_sql.py scan <x>
+python benchmark_spark_sql.py aggregation <x>
+python benchmark_spark_sql.py join <date>
 """
 
 """
